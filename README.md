@@ -195,7 +195,7 @@ docker network ls
 
 ## 🔗 Repositório
 
-* GitHub: [INSERIR LINK AQUI]
+* GitHub: https://github.com/cadupacheco/CP-2-Devops.git
 
 ---
 
